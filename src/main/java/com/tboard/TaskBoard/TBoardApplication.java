@@ -1,13 +1,13 @@
-package com.TBord.TBoard;
+package com.tboard.TaskBoard;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TBoardV001Application {
+public class TBoardApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TBoardV001Application.class, args);
+		SpringApplication.run(TBoardApplication.class, args);
 	}
 
 }

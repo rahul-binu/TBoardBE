@@ -1,10 +1,10 @@
-package com.TBord.TBoard;
+package com.tboard.TaskBoard;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TBoardV001ApplicationTests {
+class TBoardApplicationTests {
 
 	@Test
 	void contextLoads() {
